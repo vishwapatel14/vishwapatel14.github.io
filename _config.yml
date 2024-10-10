@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Vishwa Patel
 tagline:          'Portfolio'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://yourusername.github.io  # Use your actual GitHub Pages URL
-baseurl:          ''  # Leave empty if hosted on GitHub Pages at username.github.io
+url:              https://vishwapatel14.github.io  
+baseurl:          ''  #leave empty if hosted on GitHub Pages at username.github.io
 
 author:
   name:           'Vishwa Patel'
